@@ -1,2 +1,2 @@
 # first_repo
-First repo for data science
+This is the first repository for practicing data science concept. 
